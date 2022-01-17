@@ -1,16 +1,34 @@
-### Hi there 👋
+- 🔭 Estudante de programação de software
 
-<!--
-**PHplayx/PHplayx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+### Um computador é como um gênio travesso. Ele vai lhe dar exatamente o que você pede, mas nem sempre o que você deseja. # 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/PHplayx">
+   <img  src="https://github-readme-stats.vercel.app/api?username=PHplayx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" height="50%"/>
+   
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHplayx&layout=compact&langs_count=7&theme=dracula" width="40%" height="40%"/>
+  
+</div>
+ 
+<div style="display: inline_block"><br>
+ 
+ ## 💻 Tecnologias:
+       
+<p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="80" height="80"/> </a> <a href="https://www.docker.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> <a href="https://www.oracle.com/" target="_blank">  </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a>  
+  
+</div>
+  
+  ##
+ 
+<div> 
+ 
+
+  <a href="https://www.linkedin.com/in/lucas-rodrigues-a264111b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+ 
+ 
+ <p align="center"> Pessoas que passaram por aqui 😜 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
