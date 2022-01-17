@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/PHplayx">
-   <img  src="https://github-readme-stats.vercel.app/api?username=PHplayx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" height="50%"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=PHplayx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="45%" height="20%"/>
    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHplayx&layout=compact&langs_count=7&theme=dracula" width="40%" height="40%"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHplayx&layout=compact&langs_count=7&theme=algolia" width="50%" height="50%"/>
   
 </div>
  
