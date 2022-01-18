@@ -5,10 +5,10 @@
 ### Um computador é como um gênio travesso. Ele vai lhe dar exatamente o que você pede, mas nem sempre o que você deseja. # 
 
 <div>
-  <a href="https://github.com/PHplayx">
-   <img  src="https://github-readme-stats.vercel.app/api?username=PHplayx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="45%" height="20%"/>
+  <a href="https://github.com/LucasRodriguees">
+   <img  src="https://github-readme-stats.vercel.app/api?username=LucasRodriguees&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="45%" height="20%"/>
    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHplayx&layout=compact&langs_count=7&theme=algolia" width="50%" height="50%"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodriguees=&layout=compact&langs_count=7&theme=algolia" width="50%" height="50%"/>
   
 </div>
  
