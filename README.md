@@ -1,4 +1,4 @@
-- 🔭 Estudante de programação de software
+- 🔭 Estudante de desenvolvimento de software
 
 - 😄 Pronouns: ele/dele
 
