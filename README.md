@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/LucasRodriguees">
-   <img  src="https://github-readme-stats.vercel.app/api?username=LucasRodriguees&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="45%" height="45%"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=LucasRodriguees&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"  height="180em"/>
    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodriguees&layout=compact&langs_count=7&theme=algolia" width="50%" height="50%"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodriguees&layout=compact&langs_count=7&theme=algolia" height="180em"/>
   
 </div>
  
